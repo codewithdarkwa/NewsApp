@@ -34,7 +34,7 @@ export default function App() {
                 <View
                   style={{
                     flexDirection: "row",
-                    justifyContent: "center",
+                    justifyContent: "space-around",
                     alignItems: "center",
                     marginVertical: 15,
                   }}
